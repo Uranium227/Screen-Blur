@@ -26,3 +26,4 @@ A lightweight, silent Windows background overlay that automatically detects and 
    ```bash
    git clone https://github.com/Uranium227/Screen-Blur
    cd Screen-Blur
+   pip install requirements.txt
