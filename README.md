@@ -24,5 +24,5 @@ A lightweight, silent Windows background overlay that automatically detects and 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/screen-blur.git](https://github.com/YOUR_USERNAME/screen-blur.git)
-   cd screen-blur
+   git clone [https://github.com/Uranium227/Screen-Blur.git](https://github.com/Uranium227/Screen-Blur.git)
+   cd Screen-Blur
